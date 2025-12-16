@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/TanyaSerkova/fe-my-app#readme",
+  "homepage": "https://github.com/TanyaSerkova/my-app#readme",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
